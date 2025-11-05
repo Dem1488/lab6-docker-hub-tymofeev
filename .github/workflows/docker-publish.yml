@@ -37,3 +37,4 @@ jobs:
           context: .
           push: true
           tags: dem1t/lab6-docker-hub-tymofeev:latest
+          # deus vult
